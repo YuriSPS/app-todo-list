@@ -10,7 +10,7 @@ indicando que a tarefa em si já está finalizada.
 - REACT JS
 - COMPONENTES EM REACT
 - REACT HOOKS( USESTATE)
-  -STYLED COMPONENTS
+- STYLED COMPONENTS
 
 ## Scripts
 
